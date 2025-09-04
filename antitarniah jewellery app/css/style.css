@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-color:rgb(#E4C59E);
+    --seccondary-color:rgb(#EEC373);
+    --seccondary-color-dark:rgb(#290001);
+}
+/* navbar css start */
+ .back-color{
+    background:#f8efdd;
+}  
+    
+.nav-design{
+    font-size: 20px;
+    font-family:"Newsreader" ;
+    font-weight: bold;
+}
+.pad-1{
+    padding-left: 70px;
+}
+/* navbar css end */
+/* form css start */
+.form-main{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* form css end */
+/* hero css start */
+.hero-main{
+  background: linear-gradient(65deg,#E4C59E,#e9bc6a);
+   color: rgb(11, 2, 85);
+}
+.designe{
+    color:#290001;
+}
+.hero-1{
+    text-align: center;
+    font-family: "Playfair Display";
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 60px;
+   
+}
+.btn{
+ margin-top: 50px;
+}
+.btn:hover{
+    box-shadow:5px 5px 10px 5px#f3c060;
+}
+.image-size{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    border-radius: 0px 10px 0px 10px;
+} 
+/* hero css end */
+/* category css start */
+.category-main{
+    font-family: "Dancing Script";
+    margin-top: 10px;
+    text-align: center;
+   
+}
+.card:hover{
+    background:#f5bb51;
+    box-shadow:5px 5px 10px 10px#f3c060;
+    border-color: #290001;
+}
+.card-text{
+    font-family: "Dancing Script";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+/* category css end */
+
+/* carousel css start */
+.caro-main{
+    margin-top: 100px;
+}
+/* carousel css end */
+
+/* footer css start */
+.foot-main{
+    background: #dfd6d6;
+}
+.foot-head{
+    font-family: "Dancing Script";
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 40px;
+
+}
+.foot-head2{
+    font-family: "Playfair Display";
+    text-align: center;
+}
+.footer-1{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 20px;
+  margin-right: 80px;
+}
+.footer-0{
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.foot-item{
+   text-align: center; 
+   margin-right: 30px;
+   margin-top: 50px;
+}
+.foot-2{
+    margin-top: 30px; 
+    margin-bottom:10px;
+}
